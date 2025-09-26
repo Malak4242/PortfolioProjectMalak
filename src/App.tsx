@@ -56,7 +56,7 @@ function App() {
               <div className="hero-image">
                 <div className="profile-card">
                   <div className="profile-img">
-                    <img src="../images/Malak.jpg" 
+                    <img src="./images/Malak.jpg" 
                          alt="Profile" className="img-fluid rounded-circle" />
                   </div>
                 </div>
