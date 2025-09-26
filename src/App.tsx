@@ -56,7 +56,7 @@ function App() {
               <div className="hero-image">
                 <div className="profile-card">
                   <div className="profile-img">
-                    <img src="../images/Malak.jpg" 
+                    <img src="/images/malak.jpg" 
                          alt="Profile" className="img-fluid rounded-circle" />
                   </div>
                 </div>
@@ -158,7 +158,7 @@ Restaurant Management System " className="img-fluid" />
             <div className="col-lg-4 col-md-6 mb-4">
               <div className="project-card h-100">
                 <div className="project-image">
-                  <img src="../images/nisa.png" 
+                  <img src="/images/nisa.png" 
                        alt="Nisa Modest wear" className="img-fluid" />
                   <div className="project-overlay">
                     <div className="project-actions">
@@ -183,7 +183,7 @@ Restaurant Management System " className="img-fluid" />
             <div className="col-lg-4 col-md-6 mb-4">
               <div className="project-card h-100">
                 <div className="project-image">
-                  <img src="../images/watch.png" 
+                  <img src="/images/watch.png" 
                        alt="Watch Of choice" className="img-fluid" />
                   <div className="project-overlay">
                     <div className="project-actions">
@@ -229,7 +229,7 @@ Restaurant Management System " className="img-fluid" />
             <div className="col-lg-4 col-md-6 mb-4">
               <div className="project-card h-100">
                 <div className="project-image">
-                  <img src="../images/BookVerse.png" 
+                  <img src="/images/book.png" 
                        alt="Learning Platform" className="img-fluid" />
                   <div className="project-overlay">
                     <div className="project-actions">
